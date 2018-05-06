@@ -1,0 +1,4 @@
+tar -tvf
+
+tar -xvf
+
