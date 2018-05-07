@@ -1,0 +1,14 @@
+Windows Linux Subsystem
+
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
+
+start powershell as Administrator
+
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+
+reboot when prompted.
+
+Install Linux Distro from Microsoft store. Ubuntu recommended.
+
+https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6?rtc=1
+

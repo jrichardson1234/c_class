@@ -1,3 +1,110 @@
 
 sudo apt-get install gdb
 
+gdb program_name
+
+Note: Must compile with -g flag to gcc for symbols.
+
+gdb hello
+
+r // run
+
+bt // backtrace
+
+q // quit
+
+------------------------------------------------------------------------------
+KEYWORDS: stack trace
+KEYWORDS: stacktrace
+KEYWORDS: backtrace
+KEYWORDS: bt
+05/06/2018
+
+backtrace
+bt
+
+frame n // select frame
+
+frame
+f
+
+info frame
+info f
+
+info frame addr
+info f addr
+
+info args
+
+info locals
+
+info catch
+
+up n
+
+down n
+
+backtrace full
+
+backtrace n // n frames
+
+https://sourceware.org/gdb/onlinedocs/gdb/Backtrace.html
+
+http://kirste.userpage.fu-berlin.de/chemnet/use/info/gdb/gdb_7.html
+
+------------------------------------------------------------------------------
+KEYWORDS: locals
+KEYWORDS: local variables
+05/06/2018
+
+bt
+
+frame n // select frame
+
+help info
+
+info args
+     
+info locals
+
+info catch
+
+------------------------------------------------------------------------------
+KEYWORDS: info
+KEYWORDS: info files
+KEYWORDS: info registers
+KEYWORDS: info program
+KEYWORDS: info symbol
+05/06/2018
+
+// show file information, sections, libraries, etc.
+info files
+
+info registers
+
+info program
+
+info symbol
+
+------------------------------------------------------------------------------
+KEYWORDS: source
+KEYWORDS: show source
+KEYWORDS: source window
+KEYWORDS: printing source lines
+05/06/2018
+
+// print more lines
+list
+
+list linenum
+
+list function
+
+// print just before last printed
+list -
+
+// after
+list +
+
+
+

@@ -1,10 +1,33 @@
 
+---
+Initialize for first time:
+
 git init
+
+git config user.name your_name
+
+git config user.email your_name@gmail.com
+
+git remote add c_class https://github.com/jrichardson1234/c_class.git
+
+---
+pull down latest from github repo:
+
+git pull c_class master
+
+---
+
+---
+Check in a change:
+
+
 git status
-git remote add
-git add *
+git add .
 git commit -m "commit message"
 
-git push repo_name branch
+---
+push changes to github repo:
 
+git push c_class master
 
+---

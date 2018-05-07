@@ -1,3 +1,33 @@
 
 sudo apt-get install emacs24
 
+emacs filename.txt
+
+exit - ^X^C
+
+save - ^X^S
+
+up ^P
+
+down ^N
+
+left ^B
+
+right ^F
+
+begining of line ^A
+
+end of line ^E
+
+delete line ^K
+
+pastline ^Y
+
+split window ^X 2
+
+move to other window ^X o
+
+show buffers ^X ^B
+
+open file ^F
+
