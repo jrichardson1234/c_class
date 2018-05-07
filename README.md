@@ -1,2 +1,2 @@
 # c_class
-Basic C class using K+R, Emacs, Linux/Bash/Make and Emacs
+Basic C class using K+R C book, gcc, emacs, make, gdb, git, and bash/linux.

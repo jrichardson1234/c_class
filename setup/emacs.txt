@@ -7,27 +7,27 @@ exit - ^X^C
 
 save - ^X^S
 
-up ^P
+up - ^P
 
-down ^N
+down - ^N
 
-left ^B
+left - ^B
 
-right ^F
+right - ^F
 
-begining of line ^A
+begining of line - ^A
 
-end of line ^E
+end of line - ^E
 
-delete line ^K
+delete line - ^K
 
-pastline ^Y
+pastline - ^Y
 
-split window ^X 2
+split window - ^X 2
 
-move to other window ^X o
+move to other window - ^X o
 
-show buffers ^X ^B
+show buffers - ^X ^B
 
-open file ^F
+open file - ^F
 
