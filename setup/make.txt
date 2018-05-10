@@ -1,0 +1,6 @@
+make - run Makefile in local directory
+
+make clean - run the "clean" rule to delete binaries
+
+Note: When adding action lines to make file entries, the line must
+start with tab, or you get wierd errors. Kind of like Python.

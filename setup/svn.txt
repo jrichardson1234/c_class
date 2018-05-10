@@ -1,0 +1,10 @@
+
+SVN, GNU RCS, etc. - These are obsolete source control systems replaced by GIT.
+
+Some projects still cling on to them from the older days. Thankfully many
+people now maintain github.com "relections" or relatively up to date copies
+so you can use modern tools and forget about these systems.
+
+Note: linux kernel.org still sticks to this in some cases for some unknown
+reason, even though Linus Torvolds himself invented git.
+

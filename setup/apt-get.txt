@@ -1,0 +1,4 @@
+apt-get install program - install software on Linux
+
+sudo apt-get install program - typically you must be root with "sudo".
+

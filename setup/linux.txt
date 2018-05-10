@@ -1,0 +1,28 @@
+
+Linux, the kernel and core drivers.
+
+One of the best examples of a large, complicated C program.
+
+Good for code style, software engineering concerns around components,
+tests, documentation.
+
+Can be complex due to threads, multiple cores, security, and control
+of the low level hardware.
+
+
+kernel.org - main place for kernel sources and news.
+
+git clone https://github.com/torvalds/linux
+
+https://github.com/torvalds/linux
+
+
+sudo apt-get install linux-source -y
+
+  - Gets linux source locally in /usr/src/...
+
+
+
+
+
+

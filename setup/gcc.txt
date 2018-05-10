@@ -1,0 +1,5 @@
+gcc file.c - compiles to a.out
+
+gcc -o file file.c - compiles to file binary from file.c source
+
+gcc -g -o file file.c - includes symbol/debugging information for gdb

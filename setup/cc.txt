@@ -1,0 +1,10 @@
+
+Note that the K&R C book shows "cc" or C Compiler.
+
+There is one on Linux, but its best to use "gcc" or the newer
+Gnu C (and C++) compiler. This has the correct symbol information
+for debugging, and more modern features such as support for other
+languages.
+
+The Linux kernel and device drivers are built with gcc.
+

@@ -9,6 +9,7 @@ main(int ac, char* av[])
     function0(1, 2, 3);
 
     printf("Hello World %d\n", 10);
+    return 0;
 }
 
 void

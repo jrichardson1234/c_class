@@ -1,4 +1,14 @@
-tar -tvf
 
-tar -xvf
+tar is a popular file archiver for Linux. Operates similar to .zip
+
+tar -tvf - list files in a tar archive
+
+tar -xvf - extract files form the tar archive into the local system.
+           be careful with this, use tar -tvf to see where the files will
+           go, otherwise could overwrite your own system files!
+
+tar -cvf archive.tar file1 file2, file3 ...
+        Create a new tar achive named archive.tar from the listed files.
+
+
 

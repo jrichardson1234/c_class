@@ -1,0 +1,16 @@
+
+bash - Linux Bourne Shell, known as "Bourne Again Shell" since the first
+version was "sh".
+
+Uses emacs key strokes for history and in line editing. *** BIG FEATURE ***
+
+Runs shell scripts of commands.
+
+End with .sh to know its a shell script, though you don't have to.
+
+To make it run as a command, do the following:
+
+chmod a+x script.sh
+
+This changes the mode of the file to executable for everyone.
+

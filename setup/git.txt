@@ -1,4 +1,20 @@
 
+GIT is a source code version control system.
+
+Remembers your previous changes. Lets you get back or compare (diff)
+them if you make a mistake and break something.
+
+Also useful to merge changes from others, and to send your changes (diffs)
+to others.
+
+Works with github.com, which is a cloud based online repository for gits
+called repo's for repositories.
+
+Note: There can be other git repositories, including ones you setup
+your self on your own local computer, server, or cloud account. Companies
+such as Microsoft now do this for internal software, and use github.com
+when communicating with Microsoft enabled open source software.
+
 sudo apt-get install git
 
 ---
