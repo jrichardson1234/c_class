@@ -1,0 +1,56 @@
+
+vi - Visual Text Editor
+
+Note: emacs is preferred for serious programming. But vi is installed
+by default on almost all Linux/Unix machines, so its handy to know
+the basics in order to configure some system config file before
+installing emacs. For example edit the wifi file so you can download
+emacs :-)
+
+Most important vi command "sudo apt-get install emacs24" :-)
+
+vi file.c
+
+ESC - escape key. Pretty much if in doubt in vi, hit this key.
+
+vi is modal, meaning its in navigation mode to move around the screen
+or file or in edit mode inserting or overwriting text.
+
+The ESC key gets you out of edit mode and into navigational mode.
+
+vi file.c
+
+Once you in the file do:
+
+ESC - for good measure, you never know what mode its in.
+
+Navigating:
+
+Note: The modern PC's arrow keys are easier, but you need to know
+these basics since you might be on a legacy VT100/ansi remote terminal
+connection and need to use the standard keys.
+
+h - move one character to the left
+
+l - move one character to the right
+
+k - move up a line
+
+j - move down a line
+
+
+i - insert text, goes into insert mode at cursor so you can type.
+    ESC to get out (of course)
+
+a - append text at the end of the current line.
+
+ESC-:-w - save file. ESC to leave edit mode, ':' for command, w for write.
+
+ESC-:-q - quit so you can go back to emacs :-)
+
+ESC-:-q! - quit but don't save file, since vi messed it up on you.
+
+After all this slow modal stuff, are you now ready to go back
+to emacs?
+
+Note: I wrote these notes in emacs, vi is that bad!

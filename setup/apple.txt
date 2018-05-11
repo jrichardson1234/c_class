@@ -1,0 +1,46 @@
+
+Apple has their own ghetto, ignore it for now. If forced to do a native
+iPhone app, try and use a tool kit to cross compile from Android, or
+Microsoft Xamarin (C# based).
+
+Truth is, today 90% of "phone apps" can be done as progressive web apps,
+or Cordova/PhoneGap using standard languages and technologies.
+
+Apple environment:
+
+Their own obsolete language called Objective-C, bought from a failed company
+years ago by Nextstep.
+
+Swift - Apples new C# like language to try and stay current, rather than
+adopting Java, C#, or the new Google Go. Good thing they are under 10%
+market share again as they have been historically. Don't hang your professional
+career on their ecosystem. I warned you.
+
+Also this OS is not Linux, or really a full Unix. They are a version of
+BSD (an OK Unix before Linux) on top of a Mach kernel which Nextstep
+grabbed from open source. (actually a pretty good kernel).
+
+But *EVERYTHING* is apple layout, not using any existing standards. It's
+a mess, you can't download and build standard Linux open source stuff
+without special apple ports, tools, development environments, etc.
+
+They are rumored to be developing their own CPU for the Macs. Hopefully
+they do this soon to speed up their decline when they realize they
+hold a party and no one shows up.
+
+Trying to "fix it" with a virtual machine just leads to crashes and
+poor performance with devices you plug into your Mac. So pat your Mac
+on the head as the pretty thing it is, but don't invest to deeply in it.
+
+Computer History NextStep == Apple today. NextStep reverse acquired Apple
+when they Apple board agreed to take Steve Jobs back. Yes, it was one
+of the greatest business moves obviously. Sadly he is gone now, and Apple
+is wandering in the wilderness with its care taker managment. Never good
+for a tech company. But then again, they are phone fashion business more
+than technology today. Yeah, another industry famous for losing its way
+when a visionary founder is gone.
+
+
+
+
+

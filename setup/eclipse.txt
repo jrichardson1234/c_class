@@ -1,0 +1,22 @@
+
+Eclipse - Linux GUI environment for programming.
+
+The Linux world answer to Microsoft Visual Studio.
+
+Open source, originally developed by IBM for Java, then open sourced
+and used to implement other languages including C/C++.
+
+Don't start with this, stick to the basics. C, emacs, gdb, bash, git, make.
+
+Once you have advanced, the benefit of Eclipse/VisualStudio is when you are
+developing more GUI or large object oriented projects in Java, C++, or C#.
+
+For these projects it introduces class browsers, template generators, and
+a more "visual" (read easier) debugger style for people who don't
+understand or want to focus on the machine, but the higher level logic
+problems at hand. It has its place.
+
+Eclipses main popularity recently is as the visual development environment
+for Android applications.
+
+For apple, see apple.txt

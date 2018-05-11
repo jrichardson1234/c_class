@@ -1,0 +1,72 @@
+
+Cloud
+
+Yes, its the future. It really is.
+
+Amazon - Leader, typically first with new features, API's, services.
+
+         Like in the past with Microsoft, you can't ignore them.
+
+         They are very strong with new startup companies, especially
+         in the cloud/web space.
+
+         They are not as strong with enterprise customers as they
+         have not fully developed this skill set yet.
+
+Azure - Very strong competitor to Amazon. Empire strikes back.
+
+         Yes, you can run Linux in Azure as well as Windows.
+
+         Microsoft *OWNS* the enterprise customer today. It's theirs
+         to lose. Microsoft took this mantle from IBM many years ago.
+
+         Azure cloud is strong with enterprise customers in which
+         Microsoft has a large enterprise sales force, systems engineers
+         and programs to help enterprises blend their current local
+         Windows based systems with the Azure cloud.
+
+Google - Very distant third place. Analysts give them way more credit
+        than they are due in the cloud space because historically
+        they have been very succesfull running large infrastructure
+        such as Google search, Gmail, and U-Tube. But those have all been
+        *INTERNAL* customers, not external paying customers. They are
+        trying to learn how to deal with enterprise customers, while
+        at the same time scrambling to provide enough services infrastructure
+        for cloud startups.
+
+Oracle - Very distant forth. Surprisingly strong given most customers
+        *HATE* them. But if you want someone to run Oracle in the cloud
+         for you, they are the experts.
+
+         Even though you need your head examined to develop a major
+         project in Oracle cloud due to how they historically treat
+         their customers, the facts of data communicate dictate that
+         applications need to run where the data is. So if Oracle can
+         get people to move their Oracle database into the cloud, its
+         natural that those applications would also need to run in the
+         Oracle cloud. Yes, this is their business model and they depend
+         on it.
+
+
+IBM - Irrelevent. Forget them. Check the computer history books about
+      how great companies eventually decline, like General Motors.
+
+      All they ship now are press releases, while contining to massively
+      layoff their workforce, especially people who used to know something.
+
+      Their entire revenue is based on a has been powerpc processor emulating
+      5 levels of virtual machine to run an old System/38 code which originally
+      used punch cards. They call these "mainframes" now, or System-Z. Your
+      gaming PC blows these away at a fraction of the price.
+
+      IBM is kept alive by "dusty decks" Cobol code in which the people
+      who now it have retired. Ask your mom.
+
+      Companies that hope to stay in business will soon hit the wall
+      on their obsolete digital systems and go to SaaS, or cloud based
+      Software As a Service. IBM could do acquisitions here to build
+      this area up before the plug is pulled. 
+
+
+
+
